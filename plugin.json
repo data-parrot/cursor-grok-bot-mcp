@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "data-parrot",
+  "version": "0.1.0",
+  "description": "Data Parrot connects to HubSpot and learns how your company sells. Its MCP server brings deal health, sales forecasting, pipeline analysis, customer health, and win/loss analysis into your AI tools.",
+  "author": {
+    "name": "Data Parrot",
+    "email": "chris@dataparrot.ai",
+    "url": "https://dataparrot.ai"
+  },
+  "homepage": "https://dataparrot.ai/docs/mcp",
+  "repository": "https://github.com/data-parrot/cursor-grok-bot-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "hubspot",
+    "forecast",
+    "pipeline",
+    "sales",
+    "revenue"
+  ]
+}
