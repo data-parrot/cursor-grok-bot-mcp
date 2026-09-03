@@ -6,7 +6,7 @@
 
 Ask Cursor or Grok Bot about your HubSpot forecast, pipeline, deals, sales activity, customer health, and win/loss using analysis Data Parrot has already completed.
 
-[Sign up with HubSpot](https://dataparrot.ai/signup) · [Visit Data Parrot](https://dataparrot.ai) · [MCP documentation](https://dataparrot.ai/docs/mcp) · [Connection guide](https://dataparrot.ai/docs/mcp/connect) · [Prompt library](https://dataparrot.ai/docs/mcp/prompts)
+[Get a Data Parrot account](https://dataparrot.ai/signup) · [Visit Data Parrot](https://dataparrot.ai) · [MCP documentation](https://dataparrot.ai/docs/mcp) · [Connection guide](https://dataparrot.ai/docs/mcp/connect) · [Prompt library](https://dataparrot.ai/docs/mcp/prompts)
 
 ## What is the Data Parrot MCP server?
 
@@ -122,7 +122,7 @@ Use [HubSpot's MCP server documentation](https://developers.hubspot.com/ai-tools
 
 You need a connected HubSpot account and a Data Parrot Pro or Max workspace. MCP access is included with those plans at no additional Data Parrot charge.
 
-New to Data Parrot? [Sign up with HubSpot](https://dataparrot.ai/signup) to create an account. MCP access requires Pro or Max.
+New to Data Parrot? [Get a Data Parrot account](https://dataparrot.ai/signup). MCP access requires Pro or Max.
 
 Access to revenue data through the Data Parrot MCP server is read-only. The server cannot edit HubSpot or Data Parrot revenue records. Browser sign-in, workspace selection, and access requests are part of connection setup and do not change revenue records.
 
